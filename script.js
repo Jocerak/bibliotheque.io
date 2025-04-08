@@ -110,3 +110,4 @@ document.getElementById('book-form').onsubmit = addNewBook;
 
 // Charger les livres au démarrage de l'application
 renderBooks();
+stop stop
